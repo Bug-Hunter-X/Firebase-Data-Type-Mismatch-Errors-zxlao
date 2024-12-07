@@ -1,0 +1,1 @@
+This repository demonstrates a common Firebase error involving data type mismatches and provides a solution.  The `firebaseBug.js` file shows the erroneous code that retrieves data and attempts to use it without proper type checking, while `firebaseBugSolution.js` shows corrected code that handles potential type issues.
